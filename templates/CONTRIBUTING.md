@@ -8,6 +8,7 @@
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+## Submiiting an Issue
 
 ## Submitting a pull request
 
@@ -24,7 +25,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Write tests.
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate pull requests.
 - Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
-
+## Style Guides
 ## Resources
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
