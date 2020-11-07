@@ -1,9 +1,6 @@
 ---
 name: New Release
 about: Create a new Release
-title: ''
-labels: ''
-assignees: ''
 
 ---
 Title: Release *****/REPO
