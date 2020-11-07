@@ -1,3 +1,11 @@
+---
+name: New Release
+about: Create a new Release
+title: ''
+labels: ''
+assignees: ''
+
+---
 Title: Release *****/REPO
 
 I'm going to share [REPO name](REPO link) with the world, but before I do, I want to make sure:
