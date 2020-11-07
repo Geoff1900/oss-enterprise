@@ -9,6 +9,7 @@ I'm going to share [REPO name](REPO link) with the world, but before I do, I wan
 - [ ] Evaluate security concerns with `security team @mention`
 - [ ] Request a snazzy logo  from `creative team  @mention`
 - [ ] Discuss promotion strategy with `public relations team @mention` and `marketing @mention`
+- [ ] Get Sign-off from the security guard
 
 ## Preparation
 
