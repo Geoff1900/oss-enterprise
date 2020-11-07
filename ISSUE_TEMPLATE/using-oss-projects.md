@@ -6,6 +6,8 @@ I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This
 
 - [ ] The license is acceptable per our [license policy](docs/license-policy.md)
 - [ ] The repository is well maintained
+- [ ] The repository has a README.md
+- [ ] The repository has a Contributing.md
    - Security vulnerabilities are addressed in a timely manner
    - Project shows regular activity
    - Bugs reported in issues are addressed promptly
